@@ -1,6 +1,5 @@
-# 💫 About Me:
-🛠️ I’m currently working on:<br>Building data-driven projects using Python — from data preprocessing to deploying AI models.<br><br>🤝 I’m looking to collaborate on:<br>Open-source AI projects, data visualization dashboards, and machine learning model optimization.<br><br>🙋‍♂️ I’m looking for help with:<br>Advanced deep learning model tuning and real-world data pipeline automation.<br><br>🌱 I’m currently learning:<br>Generative AI (LLMs, diffusion models), MLOps, and model deployment with FastAPI & Docker.<br><br>💬 Ask me about:<br>Python tips, data cleaning tricks, model evaluation, or anything about AI workflows.<br><br>⚡ Fun fact:<br>I can spend hours cleaning messy data—it’s oddly satisfying 😄
-
+About Me:
+Check this out and know me more further, and be my partner :D
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahmad Zaini) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zainipacen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmad Zaini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadpacen@gmail.com) 
